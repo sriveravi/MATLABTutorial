@@ -13,7 +13,8 @@ Enjoy,
 
 Samuel Rivera, PhD
 rivera.162@osu.edu
-samuelrivera.co
+
+Download at: www2.ece.ohio-state.edu/~riveras/data/MATLABTutorial.zip
 
 ------------------------------------------------------------------------
 Additional resources can be found here:

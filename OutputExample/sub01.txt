@@ -1,0 +1,11 @@
+subid	trial	RT	acc	correctAns	userAns
+sub01	1	0.400000	1.000000	abc	def
+sub01	2	0.400000	1.000000	abc	def
+sub01	3	0.400000	1.000000	abc	def
+sub01	4	0.400000	1.000000	abc	def
+sub01	5	0.400000	1.000000	abc	def
+sub01	6	0.400000	1.000000	abc	def
+sub01	7	0.400000	1.000000	abc	def
+sub01	8	0.400000	1.000000	abc	def
+sub01	9	0.400000	1.000000	abc	def
+sub01	10	0.400000	1.000000	abc	def
